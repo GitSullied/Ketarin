@@ -873,11 +873,11 @@
         private System.Windows.Forms.Panel pnlDownloadSource;
         private VariableTextBox txtFixedUrl;
         private System.Windows.Forms.RadioButton rbFixedUrl;
-        private CDBurnerXP.Controls.Separator sepDownload;
+        //private CDBurnerXP.Controls.Separator sepDownload;
         private System.Windows.Forms.Panel pnlTarget;
         private System.Windows.Forms.RadioButton rbFolder;
         private System.Windows.Forms.RadioButton rbFileName;
-        private CDBurnerXP.Controls.Separator sepTarget;
+        //private CDBurnerXP.Controls.Separator sepTarget;
         private VariableTextBox txtTarget;
         private System.Windows.Forms.Button bBrowseFile;
         private System.Windows.Forms.CheckBox chkEnabled;
@@ -918,9 +918,9 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutCommands;
         private System.Windows.Forms.Panel pnlCommandBefore;
         private System.Windows.Forms.Panel pnlCommandAfter;
-        private CDBurnerXP.Controls.Separator sepMiscellaneous;
-        private CDBurnerXP.Controls.Separator sepUpdateDetection;
-        private CDBurnerXP.Controls.Separator sepDownloads;
+        //private CDBurnerXP.Controls.Separator sepMiscellaneous;
+        //private CDBurnerXP.Controls.Separator sepUpdateDetection;
+        //private CDBurnerXP.Controls.Separator sepDownloads;
         private System.Windows.Forms.Panel pnlBeta;
         private System.Windows.Forms.RadioButton rbBetaAvoid;
         private System.Windows.Forms.RadioButton rbAlwaysDownload;

@@ -679,19 +679,19 @@
 
         private ApplicationJobsListView olvJobs;
         private System.Windows.Forms.ImageList imlStatus;
-        private CDBurnerXP.Controls.VistaMenu m_VistaMenu;
+        //private CDBurnerXP.Controls.VistaMenu m_VistaMenu;
         private System.Windows.Forms.ContextMenu cmnuJobs;
         private System.Windows.Forms.MenuItem cmnuUpdate;
         private System.Windows.Forms.MenuItem menuItem4;
         private System.Windows.Forms.MenuItem cmnuEdit;
         private System.Windows.Forms.MenuItem cmnuDelete;
-        private CDBurnerXP.Controls.OLVColumn colName;
-        private CDBurnerXP.Controls.OLVColumn colLastUpdate;
-        private CDBurnerXP.Controls.OLVColumn colProgress;
-        private CDBurnerXP.Controls.OLVColumn colTarget;
+        //private CDBurnerXP.Controls.OLVColumn colName;
+        //private CDBurnerXP.Controls.OLVColumn colLastUpdate;
+        //private CDBurnerXP.Controls.OLVColumn colProgress;
+        //private CDBurnerXP.Controls.OLVColumn colTarget;
         private System.Windows.Forms.MenuItem cmnuOpenFile;
         private System.Windows.Forms.MenuItem cmnuRename;
-        private CDBurnerXP.Controls.OLVColumn colCategory;
+        //private CDBurnerXP.Controls.OLVColumn colCategory;
         private System.Windows.Forms.MainMenu mnuMain;
         private System.Windows.Forms.MenuItem mnuFile;
         private System.Windows.Forms.MenuItem mnuExit;
@@ -735,7 +735,7 @@
         private System.Windows.Forms.MenuItem mnuFind;
         private System.Windows.Forms.MenuItem mnuAutoScroll;
         private System.Windows.Forms.MenuItem cmnuUpdateAndInstall;
-        private CDBurnerXP.Controls.OLVColumn colStatus;
+        //private CDBurnerXP.Controls.OLVColumn colStatus;
         private System.Windows.Forms.ToolStripStatusLabel tbNumByStatus;
         private System.Windows.Forms.MenuItem cmnuProperties;
         private wyDay.Controls.SplitButton bInstall;

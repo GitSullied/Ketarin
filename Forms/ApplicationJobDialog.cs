@@ -9,9 +9,9 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Threading;
 using CookComputing.XmlRpc;
-using CDBurnerXP;
-using CDBurnerXP.IO;
-using CDBurnerXP.Forms;
+//using CDBurnerXP;
+//using CDBurnerXP.IO;
+//using CDBurnerXP.Forms;
 
 namespace Ketarin.Forms
 {

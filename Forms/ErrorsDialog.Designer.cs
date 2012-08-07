@@ -136,9 +136,9 @@
 
         private System.Windows.Forms.Label lblDesc;
         private System.Windows.Forms.Button bClose;
-        private CDBurnerXP.Controls.FastObjectListView olvErrors;
-        private CDBurnerXP.Controls.OLVColumn colAppName;
-        private CDBurnerXP.Controls.OLVColumn colError;
+        //private CDBurnerXP.Controls.FastObjectListView olvErrors;
+        //private CDBurnerXP.Controls.OLVColumn colAppName;
+        //private CDBurnerXP.Controls.OLVColumn colError;
         private System.Windows.Forms.Button bCopyToClipboard;
     }
 }

@@ -729,7 +729,7 @@
         private System.Windows.Forms.Label lblConnectionTimeout;
         private System.Windows.Forms.NumericUpDown nConnectionTimeout;
         private System.Windows.Forms.Label lblSeconds;
-        private CDBurnerXP.Controls.Separator sepProxy;
+        //private CDBurnerXP.Controls.Separator sepProxy;
         private System.Windows.Forms.Label lblServer;
         private System.Windows.Forms.TextBox txtProxyServer;
         private System.Windows.Forms.NumericUpDown nProxyPort;
@@ -757,12 +757,12 @@
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.Label lblGlobalVariables;
         private System.Windows.Forms.DataGridView gridGlobalVariables;
-        private CDBurnerXP.Controls.ObjectListView olvCustomColumns;
-        private CDBurnerXP.Controls.OLVColumn colName;
-        private CDBurnerXP.Controls.OLVColumn colValue;
+        //private CDBurnerXP.Controls.ObjectListView olvCustomColumns;
+        //private CDBurnerXP.Controls.OLVColumn colName;
+        //private CDBurnerXP.Controls.OLVColumn colValue;
         private System.Windows.Forms.Button bAddCustomColumn;
         private System.Windows.Forms.Button bRemove;
-        private CDBurnerXP.Controls.Separator separator1;
+        //private CDBurnerXP.Controls.Separator separator1;
         private System.Windows.Forms.Button bEdit;
         private System.Windows.Forms.TabPage tpHotkeys;
         private System.Windows.Forms.Label lblActions;

@@ -20,7 +20,7 @@ using System.IO;
 using System.Net;
 using System.Threading;
 using System.Windows.Forms;
-using CDBurnerXP;
+//using CDBurnerXP;
 using Ketarin.Forms;
 using Microsoft.Win32;
 

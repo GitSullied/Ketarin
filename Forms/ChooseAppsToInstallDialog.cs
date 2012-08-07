@@ -5,12 +5,12 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using CDBurnerXP.Forms;
+//using CDBurnerXP.Forms;
 using Microsoft.Win32;
-using CDBurnerXP.IO;
-using CDBurnerXP.Controls;
+//using CDBurnerXP.IO;
+//using CDBurnerXP.Controls;
 using System.Data.SQLite;
-using CDBurnerXP;
+//using CDBurnerXP;
 
 namespace Ketarin.Forms
 {

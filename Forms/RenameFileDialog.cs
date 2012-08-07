@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
-using CDBurnerXP.IO;
+//using CDBurnerXP.IO;
 
 namespace Ketarin.Forms
 {

@@ -5,8 +5,8 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using CDBurnerXP.Forms;
-using CDBurnerXP.IO;
+//using CDBurnerXP.Forms;
+//using CDBurnerXP.IO;
 
 namespace Ketarin.Forms
 {

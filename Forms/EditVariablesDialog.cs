@@ -7,8 +7,8 @@ using System.Text;
 using System.Windows.Forms;
 using System.Net;
 using System.Text.RegularExpressions;
-using CDBurnerXP.Forms;
-using CDBurnerXP.IO;
+//using CDBurnerXP.Forms;
+//using CDBurnerXP.IO;
 using Microsoft.Win32;
 using System.Threading;
 

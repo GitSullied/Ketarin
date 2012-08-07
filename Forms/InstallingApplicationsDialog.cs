@@ -5,10 +5,10 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using CDBurnerXP.Forms;
+//using CDBurnerXP.Forms;
 using System.Threading;
-using CDBurnerXP.IO;
-using CDBurnerXP;
+//using CDBurnerXP.IO;
+//using CDBurnerXP;
 
 namespace Ketarin.Forms
 {

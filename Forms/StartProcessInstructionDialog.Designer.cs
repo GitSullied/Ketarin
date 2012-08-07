@@ -286,10 +286,10 @@
         private System.Windows.Forms.MenuItem mnuS;
         private System.Windows.Forms.MenuItem mnuPassive;
         private System.Windows.Forms.MenuItem mnuNsis;
-        private CDBurnerXP.Controls.WebLink lnkSilentSetups;
-        private CDBurnerXP.Controls.ObjectListView olvEnvironmentVariables;
-        private CDBurnerXP.Controls.OLVColumn colName;
-        private CDBurnerXP.Controls.OLVColumn olvValue;
+        //private CDBurnerXP.Controls.WebLink lnkSilentSetups;
+        //private CDBurnerXP.Controls.ObjectListView olvEnvironmentVariables;
+        //private CDBurnerXP.Controls.OLVColumn colName;
+        //private CDBurnerXP.Controls.OLVColumn olvValue;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button bBrowse;
         private System.Windows.Forms.CheckBox chkWaitUntilExit;

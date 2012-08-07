@@ -5,8 +5,8 @@ using System.IO;
 using System.Data;
 using System.Data.SQLite;
 using System.Windows.Forms;
-using CDBurnerXP;
-using CDBurnerXP.IO;
+//using CDBurnerXP;
+//using CDBurnerXP.IO;
 using System.Net;
 
 namespace Ketarin

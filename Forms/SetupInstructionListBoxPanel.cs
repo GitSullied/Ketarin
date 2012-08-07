@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using CDBurnerXP.Controls;
+//using CDBurnerXP.Controls;
 using System.Windows.Forms;
 using System.Drawing;
-using CDBurnerXP.Forms;
+//using CDBurnerXP.Forms;
 using System.Threading;
 
 namespace Ketarin.Forms

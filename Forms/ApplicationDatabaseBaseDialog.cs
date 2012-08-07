@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Net;
 using System.Windows.Forms;
-using CDBurnerXP.Forms;
+//using CDBurnerXP.Forms;
 using CookComputing.XmlRpc;
 
 namespace Ketarin.Forms

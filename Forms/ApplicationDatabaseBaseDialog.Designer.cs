@@ -159,14 +159,14 @@
 
         #endregion
 
-        private CDBurnerXP.Controls.OLVColumn colAppName;
-        private CDBurnerXP.Controls.OLVColumn colDate;
+        //private CDBurnerXP.Controls.OLVColumn colAppName;
+        //private CDBurnerXP.Controls.OLVColumn colDate;
         private System.Windows.Forms.ContextMenu cmnuApplications;
         private System.Windows.Forms.MenuItem cmnuProperties;
         protected System.Windows.Forms.Button bOK;
-        protected CDBurnerXP.Controls.FastObjectListView olvApplications;
+        //protected CDBurnerXP.Controls.FastObjectListView olvApplications;
         protected System.Windows.Forms.Label lblResults;
         protected System.Windows.Forms.Button bCancel;
-        protected CDBurnerXP.Controls.OLVColumn colUseCount;
+        //protected CDBurnerXP.Controls.OLVColumn colUseCount;
     }
 }

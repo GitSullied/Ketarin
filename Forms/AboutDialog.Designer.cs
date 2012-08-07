@@ -229,13 +229,13 @@
         private System.Windows.Forms.Label lblVersionDesc;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Label lblVersion;
-        private CDBurnerXP.Controls.WebLink lnkGPL;
+        //private CDBurnerXP.Controls.WebLink lnkGPL;
         private System.Windows.Forms.Label lblLicense;
         private System.Windows.Forms.Label lblImagesExcluded;
         private System.Windows.Forms.Label lblWebsite;
         private CDBurnerXP.Controls.WebLink webLink1;
         private System.Windows.Forms.PictureBox picIcon;
-        private CDBurnerXP.Controls.WebLink lblDatabasePath;
+        //private CDBurnerXP.Controls.WebLink lblDatabasePath;
         private System.Windows.Forms.Label lblDatabase;
     }
 }

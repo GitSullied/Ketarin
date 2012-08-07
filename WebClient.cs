@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Net;
 using System.Windows.Forms;
-using CDBurnerXP;
+//using CDBurnerXP;
 using System.Web;
 using System.IO;
 using System.Reflection;

@@ -1,4 +1,4 @@
-﻿using CDBurnerXP.Controls;
+﻿//using CDBurnerXP.Controls;
 namespace Ketarin.Forms
 {
     partial class InstallingApplicationsDialog
@@ -220,11 +220,11 @@ namespace Ketarin.Forms
         private System.ComponentModel.BackgroundWorker bgwSetup;
         private System.Windows.Forms.Label lbShowHideDetails;
         private System.Windows.Forms.ImageList imageList;
-        private CDBurnerXP.Controls.ObjectListView olvLog;
-        private CDBurnerXP.Controls.OLVColumn colMessage;
+        //private CDBurnerXP.Controls.ObjectListView olvLog;
+        //private CDBurnerXP.Controls.OLVColumn colMessage;
         private System.Windows.Forms.Label lblEvents;
         private System.Windows.Forms.Panel pnlExpanded;
         private System.Windows.Forms.ImageList imlListIcons;
-        private CDBurnerXP.Controls.OLVColumn colTime;
+        //private CDBurnerXP.Controls.OLVColumn colTime;
     }
 }

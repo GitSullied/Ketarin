@@ -4,7 +4,7 @@ using System.Text;
 using System.Data;
 using System.Drawing;
 using Microsoft.Win32;
-using CDBurnerXP.IO;
+//using CDBurnerXP.IO;
 using System.Data.SQLite;
 using System.ComponentModel;
 

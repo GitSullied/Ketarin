@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.Net;
 using System.Xml.Serialization;
 using System.Data.SQLite;
-using CDBurnerXP;
+//using CDBurnerXP;
 
 namespace Ketarin.Forms
 {

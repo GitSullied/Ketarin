@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.30729</ProductVersion>
+    <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{288E5727-81A4-4079-A089-3B60DA408CBC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -90,110 +90,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\AdvancedListBox.cs">
-      <Link>CDBurnerXP\AdvancedListBox.cs</Link>
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\AdvancedListBox.designer.cs">
-      <Link>CDBurnerXP\AdvancedListBox.designer.cs</Link>
-      <DependentUpon>AdvancedListBox.cs</DependentUpon>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\AutoSizeLayout.cs">
-      <Link>CDBurnerXP\AutoSizeLayout.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\IMirrorControl.cs">
-      <Link>CDBurnerXP\IMirrorControl.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\ListBoxPanel.cs">
-      <Link>CDBurnerXP\ListBoxPanel.cs</Link>
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\ListBoxPanel.designer.cs">
-      <Link>CDBurnerXP\ListBoxPanel.designer.cs</Link>
-      <DependentUpon>ListBoxPanel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\ListView.cs">
-      <Link>CDBurnerXP\ListView.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\MarqueeProgressBar.cs">
-      <Link>CDBurnerXP\MarqueeProgressBar.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\ObjectListView.cs">
-      <Link>CDBurnerXP\ObjectListView.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\OwnerDrawnMenu.cs">
-      <Link>CDBurnerXP\OwnerDrawnMenu.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\PanelCollection.cs">
-      <Link>CDBurnerXP\PanelCollection.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\Separator.cs">
-      <Link>CDBurnerXP\Separator.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\VistaMenu.cs">
-      <Link>CDBurnerXP\VistaMenu.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\WebLink.cs">
-      <Link>CDBurnerXP\WebLink.cs</Link>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Conversion.cs">
-      <Link>CDBurnerXP\Conversion.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Forms\ControlRedrawLock.cs">
-      <Link>CDBurnerXP\ControlRedrawLock.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Forms\PersistentForm.cs">
-      <Link>CDBurnerXP\PersistentForm.cs</Link>
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Forms\ProgressDialog.cs">
-      <Link>CDBurnerXP\ProgressDialog.cs</Link>
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Forms\ProgressDialog.designer.cs">
-      <Link>CDBurnerXP\ProgressDialog.designer.cs</Link>
-      <DependentUpon>ProgressDialog.cs</DependentUpon>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\GenericEventArgs.cs">
-      <Link>CDBurnerXP\GenericEventArgs.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\IO\Debug.cs">
-      <Link>CDBurnerXP\Debug.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\IO\FormatFileSize.cs">
-      <Link>CDBurnerXP\FormatFileSize.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\IO\PathEx.cs">
-      <Link>CDBurnerXP\PathEx.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\IO\SafeClipboard.cs">
-      <Link>CDBurnerXP\SafeClipboard.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Settings.cs">
-      <Link>CDBurnerXP\Settings.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Utility.cs">
-      <Link>CDBurnerXP\Utility.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\Win32\IconReader.cs">
-      <Link>CDBurnerXP\IconReader.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\Win32\Kernel32.cs">
-      <Link>CDBurnerXP\Kernel32.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\Win32\Shell32.cs">
-      <Link>CDBurnerXP\Shell32.cs</Link>
-    </Compile>
-    <Compile Include="..\CDBurnerXP\trunk\CsLib\Win32\User32.cs">
-      <Link>CDBurnerXP\User32.cs</Link>
-    </Compile>
     <Compile Include="ApplicationList.cs" />
     <Compile Include="CloseProcessInstruction.cs" />
     <Compile Include="Command.cs" />
@@ -479,72 +375,95 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\AboutDialog.resx">
       <DependentUpon>AboutDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ApplicationDatabaseBaseDialog.resx">
       <DependentUpon>ApplicationDatabaseBaseDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ApplicationJobDialog.resx">
       <DependentUpon>ApplicationJobDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\BrowserPreviewDialog.resx">
       <DependentUpon>BrowserPreviewDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\CopyFileInstructionDialog.resx">
       <DependentUpon>CopyFileInstructionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\CustomSetupInstructionDialog.resx">
       <DependentUpon>CustomSetupInstructionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\InstallingApplicationsDialog.resx">
       <DependentUpon>InstallingApplicationsDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SetupInstructionListBoxPanel.resx">
       <DependentUpon>SetupInstructionListBoxPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\DeleteApplicationDialog.resx">
       <DependentUpon>DeleteApplicationDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\EditVariablesDialog.resx">
       <DependentUpon>EditVariablesDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ErrorsDialog.resx">
       <DependentUpon>ErrorsDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ImportFromDatabaseDialog.resx">
       <DependentUpon>ImportFromDatabaseDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\InstructionBaseDialog.resx">
       <DependentUpon>InstructionBaseDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\LogDialog.resx">
       <DependentUpon>LogDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\MultilineEditorDialog.resx">
       <DependentUpon>MultilineEditorDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\NewVariableDialog.resx">
       <DependentUpon>NewVariableDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\PostDataEditor.resx">
       <DependentUpon>PostDataEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\RenameFileDialog.resx">
       <DependentUpon>RenameFileDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SetPlaceholderDialog.resx">
       <DependentUpon>SetPlaceholderDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SettingsDialog.resx">
       <DependentUpon>SettingsDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\StartProcessInstructionDialog.resx">
       <DependentUpon>StartProcessInstructionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SimilarApplicationsDialog.resx">
       <DependentUpon>SimilarApplicationsDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -553,15 +472,19 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Scintilla\FindReplace\FindReplaceDialog.resx">
       <DependentUpon>FindReplaceDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Scintilla\FindReplace\IncrementalSearcher.resx">
       <DependentUpon>IncrementalSearcher.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Scintilla\GoToDialog.resx">
       <DependentUpon>GoToDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Scintilla\Snippets\SnippetChooser.resx">
       <DependentUpon>SnippetChooser.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -665,35 +588,29 @@
     <None Include="Resources\GoToNextMessage.png" />
     <None Include="Resources\GoToPreviousMessage.png" />
     <None Include="Resources\LineColorHS.png" />
-    <EmbeddedResource Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\AdvancedListBox.resx">
-      <Link>CDBurnerXP\AdvancedListBox.resx</Link>
-      <DependentUpon>AdvancedListBox.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Controls\ListBoxPanel.resx">
-      <Link>CDBurnerXP\ListBoxPanel.resx</Link>
-      <DependentUpon>ListBoxPanel.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="..\CDBurnerXP\trunk\CsLib\CDBurnerXP\Forms\ProgressDialog.resx">
-      <Link>CDBurnerXP\ProgressDialog.resx</Link>
-      <DependentUpon>ProgressDialog.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Forms\AddCustomColumnDialog.resx">
       <DependentUpon>AddCustomColumnDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ChooseAppsToInstallDialog.resx">
       <DependentUpon>ChooseAppsToInstallDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\CloseProcessInstructionDialog.resx">
       <DependentUpon>CloseProcessInstructionDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\CommandControl.resx">
       <DependentUpon>CommandControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\NewSnippetDialog.resx">
       <DependentUpon>NewSnippetDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SelectApplicationDialog.resx">
       <DependentUpon>SelectApplicationDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Scintilla\Configuration\Builtin\cs.xml" />
     <EmbeddedResource Include="Scintilla\Configuration\Builtin\default.xml" />

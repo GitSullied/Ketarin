@@ -437,20 +437,20 @@
 
         protected System.Windows.Forms.Button bCancel;
         protected wyDay.Controls.SplitButton bOK;
-        private CDBurnerXP.Controls.ObjectListView olvLists;
-        private CDBurnerXP.Controls.FastObjectListView olvApps;
+        //private CDBurnerXP.Controls.ObjectListView olvLists;
+        //private CDBurnerXP.Controls.FastObjectListView olvApps;
         private System.Windows.Forms.Label lblAppLists;
         private System.Windows.Forms.Label lblAppsInCurrentList;
         private System.Windows.Forms.Button bNewList;
         private System.Windows.Forms.Button bRemoveList;
-        private CDBurnerXP.Controls.OLVColumn colListName;
-        private CDBurnerXP.Controls.OLVColumn colListAppNames;
+        //private CDBurnerXP.Controls.OLVColumn colListName;
+        //private CDBurnerXP.Controls.OLVColumn colListAppNames;
         private System.Windows.Forms.ImageList imlLists;
         private wyDay.Controls.SplitButton bSelectApp;
         private System.Windows.Forms.Button bAddApp;
         private System.Windows.Forms.Button bRemoveApp;
         private System.Windows.Forms.ContextMenu selectionMenu;
-        private CDBurnerXP.Controls.OLVColumn colAppsName;
+        //private CDBurnerXP.Controls.OLVColumn colAppsName;
         private System.Windows.Forms.MenuItem mnuSelectAll;
         private System.Windows.Forms.MenuItem mnuSelectNone;
         private System.Windows.Forms.MenuItem mnuInvertSelection;

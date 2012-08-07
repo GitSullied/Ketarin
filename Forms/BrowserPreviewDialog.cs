@@ -13,7 +13,7 @@ namespace Ketarin.Forms
     /// loaded by a variable.
     /// </summary>
     public partial class BrowserPreviewDialog : CDBurnerXP.Forms.PersistentForm, IComponent
-    {
+    {       
         public BrowserPreviewDialog()
         {
             InitializeComponent();
